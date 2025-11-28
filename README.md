@@ -1,61 +1,31 @@
 # Git & GitHub Practice
 
-![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/CLI-Terminal-blue)
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
-
 Learning version control fundamentals as part of my transition from Retail Management to AI Engineering.
 
-## What I Practiced
+## What I'm Practicing
 
-✅ Repository creation and management  
-✅ Making meaningful commits  
-✅ Working with branches and merging  
-✅ SSH authentication on Windows  
-✅ Remote repository management  
-✅ Collaboration workflows  
+- ✅ Creating repositories
+- ✅ Making meaningful commits
+- ✅ Working with branches and merging
+- ✅ SSH authentication
+- ✅ Remote repository management
+- ✅ Collaboration workflows
 
-## Key Commands Mastered
-```bash
-# Repository basics
-git init
-git clone
-git status
+## Why This Repo Exists
 
-# Committing changes
-git add .
-git commit -m "message"
-git push origin main
+This is my first step in building a professional development workflow. Every expert started here.
 
-# Branching
-git branch feature-name
-git checkout feature-name
-git merge feature-name
+## Skills Building Toward
 
-# Remote management
-git remote -v
-git remote set-url origin <url>
-```
-
-## Challenges Overcome
-
-- SSH key setup on Windows (different from Mac/Linux)
-- Understanding the difference between local and remote repos
-- Learning proper commit message conventions
-
-## What's Next
-
-Building real projects:
-- CLI applications with Python
-- REST APIs with FastAPI
-- Computer vision with PyTorch
-- LLM applications with LangChain
+- AI/ML Engineering
+- Production code deployment
+- Team collaboration
+- Open source contribution
 
 ---
 
-**Timeline:** November 2025 - September 2026  
-**Goal:** Become an AI Engineer  
-**Background:** Automation Engineering degree (2010), 15 years retail management
+**Learning Timeline:** November 2025 - September 2026  
+**Next:** Building real projects with Python, FastAPI, PyTorch, and LLMs
 
-*Learning in public. Every expert started here.* 🚀
+_Learning in public. Embracing the journey._
+Testing SSH
